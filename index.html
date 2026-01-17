@@ -6,12 +6,19 @@
   <title>Fimple Launcher</title>
 
   <link rel="stylesheet" href="css/style.css">
+
+
+  <script>
+    if (location.pathname.endsWith("index.html")) {
+      location.replace(location.pathname.replace("index.html", ""));
+    }
+  </script>
 </head>
 <body>
   <header>
     <h1>Fimple Launcher</h1>
     <nav>
-      <a href="index.html">Главная</a>
+      <a href="./">Главная</a>
       <a href="https://github.com/Forki303/Fimple-Launcher" target="_blank">О лаунчере</a>
       <a href="https://github.com/Forki303/Fimple-Launcher/releases" target="_blank">Скачать</a>
     </nav>
@@ -21,7 +28,11 @@
     <section>
       <h2>Добро пожаловать в Fimple Launcher!</h2>
       <p>Простой и удобный лаунчер для Minecraft с поддержкой ванильных версий.</p>
-      <a href="https://github.com/Forki303/Fimple-Launcher/releases" class="btn" target="_blank">Скачать</a>
+      <a href="https://github.com/Forki303/Fimple-Launcher/releases"
+         class="btn"
+         target="_blank">
+        Скачать
+      </a>
     </section>
 
     <section>
@@ -36,8 +47,10 @@
 
   <footer>
     <p>
-      Если возникли проблемы, создайте
-      <a href="https://github.com/Forki303/Fimple-Launcher/issues" target="_blank">обсуждение</a>.
+      Если возникли проблемы — создайте
+      <a href="https://github.com/Forki303/Fimple-Launcher/issues" target="_blank">
+        обсуждение
+      </a>.
     </p>
   </footer>
 </body>
