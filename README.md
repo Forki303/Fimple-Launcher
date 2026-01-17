@@ -1,7 +1,3 @@
-# Fimple-Launcher
-A simple Minecraft launcher written in Python.
-
-
 # Fimple Launcher
 
 **Fimple Launcher** — простой и удобный лаунчер для Minecraft.
@@ -13,6 +9,7 @@ A simple Minecraft launcher written in Python.
 
 **Установка:**  
 Поместите `.exe` файл в удобное место и запустите его.  
+Если возникли проблемы — создайте [дискуссию](https://github.com/ВашПользователь/Fimple-Launcher/discussions) на GitHub, и я постараюсь помочь.
 
 ---
 
@@ -26,10 +23,14 @@ With it, you can:
 - Play Minecraft quickly without extra hassle.
 
 **Installation:**  
-Place the `.exe` file in a convenient location and run it.
+Place the `.exe` file in a convenient location and run it.  
+If you encounter any problems — create a [discussion](https://github.com/ВашПользователь/Fimple-Launcher/discussions) on GitHub, and I will try to help.
 
 ---
 
+## Скриншоты / Screenshots
+
+![Launcher Screenshot](assets/screenshot.png)
 
 ---
 
