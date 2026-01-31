@@ -51,3 +51,6 @@ If you encounter any problems — create a [discussion](https://github.com/Forki
 
 Этот проект распространяется под лицензией MIT.  
 This project is licensed under the MIT License.
+
+
+[Linux Repository](https://github.com/Forki303/Fimple-Launcher-Linux)
