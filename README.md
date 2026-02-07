@@ -7,6 +7,8 @@
 - Настраивать лаунчер под себя с помощью простого интерфейса.  
 - Играть без лишних сложностей и долгих настроек.  
 
+Minecraft 1.17+ требует JDK 21 — скачать с оф. сайта: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
+
 **Установка:**  
 1. **Обычная версия:**  
    - Поместите `.exe` файл в удобное место и запустите его.  
@@ -27,6 +29,8 @@ With it, you can:
 - Choose and launch any Minecraft version.  
 - Customize the launcher through a simple interface.  
 - Play Minecraft quickly without extra hassle.
+
+Minecraft 1.17+ requires JDK 21 – download from the official website: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
 
 **Installation:**  
 1. **Regular version:**  
