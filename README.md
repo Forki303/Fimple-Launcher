@@ -12,10 +12,10 @@ https://t.me/Fimple_Launcher
 Minecraft 1.17+ требует JDK 21 — скачать с оф. сайта: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
 
 **Установка:**  
-1. **Обычная версия:**  
+1. **1.0-4.0:**  
    - Поместите `.exe` файл в удобное место и запустите его.  
-2. **Версия 5.0:**  
-   - Скачайте архив с версией 5.0.  
+2. **Версия 5.0+:**  
+   - Скачайте архив с версией.  
    - Поместите архив в удобное место и распакуйте его.  
    - После распаковки запустите `.exe` файл из распакованной папки.  
 
@@ -35,9 +35,9 @@ With it, you can:
 Minecraft 1.17+ requires JDK 21 – download from the official website: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
 
 **Installation:**  
-1. **Regular version:**  
+1. **1.0-4.0:**  
    - Place the `.exe` file in a convenient location and run it.  
-2. **Version 5.0:**  
+2. **Version 5.0+:**  
    - Download the archive containing version 5.0.  
    - Place the archive in a convenient location and extract it.  
    - After extraction, run the `.exe` file from the extracted folder.  
